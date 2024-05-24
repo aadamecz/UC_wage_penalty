@@ -1,6 +1,7 @@
 The zip file contains the replication package of the article `The underconfidence wage penalty` by Anna Adamecz and Nikki Shure in Stata. 
 
 Note that the article is using the data of the 1970 British Cohort Study that we cannot make publicly available. All data are available however from the UK Data Service after registration, creating an account, and asking for permission at wwww.ukdataservice.ac.uk. The replication package specifies exactly which data files are needed. Should you have any questions, please contact the authors.
+
 To replicate the results, please download the zip file that contains the following folders:
 
 data
